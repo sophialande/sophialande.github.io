@@ -1,0 +1,5 @@
+[[plugins]]
+package = "netlify-plugin-no-more-404"
+
+[build.processing]
+  skip_processing = true
